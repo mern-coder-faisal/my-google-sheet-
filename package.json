@@ -1,0 +1,8 @@
+{
+  "name": "google-sheet-monorepo",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix client run build",
+    "start": "node frontend/server.js"
+  }
+}
