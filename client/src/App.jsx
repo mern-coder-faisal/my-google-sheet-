@@ -631,7 +631,7 @@ function App() {
         <div className="bg-white rounded-lg shadow-xl p-8 w-full max-w-md">
           <div className="flex items-center justify-center mb-6">
             <FileSpreadsheet className="w-12 h-12 text-indigo-600 mr-2" />
-            <h1 className="text-3xl font-bold text-gray-800">Spreadsheet Clone</h1>
+            <h1 className="text-3xl font-bold text-gray-800">Easin Sheet</h1>
           </div>
           
           {!showRegister ? (
